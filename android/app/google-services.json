@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929876355106",
+    "project_id": "my-order-app-ccea7",
+    "storage_bucket": "my-order-app-ccea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929876355106:android:355db6da85f9bcdd2ec27b",
+        "android_client_info": {
+          "package_name": "com.demo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929876355106-6sn0n7u30iuilm0ts75gt434lr0re1ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6naQj8B9-JBsOGrbX7IO1SdmCz13CZYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929876355106-6sn0n7u30iuilm0ts75gt434lr0re1ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
